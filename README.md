@@ -8,3 +8,6 @@ Even if you are not sure if a certain thing is supposed to be so or not, we woul
 - How to reproduce it
 - How does the website behave
 - What was supposed to happen
+
+
+**Please no pull requests**
